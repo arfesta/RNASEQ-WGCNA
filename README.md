@@ -3,6 +3,7 @@
 *Weighted Gene Correlation Network Analysis of RNAseq data in Loblolly Pine*
 
   * [Abstract](#abstract)
+  * [Questions of interest](#questions-of-interest
   * [Background of samples](#background-of-samples)
   * [Location of data](#location-of-data)
   * [Methods](#methods)
@@ -36,7 +37,7 @@
 
    - 80 Biological Replicates x 3 technical replicates = 240 technical replicates
 
-* Note that some samples from the EW had to be dropped after sequencing due to contamination, so the total number of bioloigcal replicates analyzed do not add up to 80+144.
+* Note that some samples from the EW had to be dropped after sequencing due to contamination and some families do not contain values for Volume..so the total number of bioloigcal replicates analyzed do not add up to 80+144.
 
 ## Location of data
 
