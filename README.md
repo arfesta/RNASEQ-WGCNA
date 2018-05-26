@@ -3,7 +3,7 @@
 *Weighted Gene Correlation Network Analysis of RNAseq data in Loblolly Pine*
 
   * [Abstract](#abstract)
-  * [Questions of interest](#questions-of-interest
+  * [Questions of interest](#questions-of-interest:)
   * [Background of samples](#background-of-samples)
   * [Location of data](#location-of-data)
   * [Methods](#methods)
