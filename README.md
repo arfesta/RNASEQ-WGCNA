@@ -3,7 +3,7 @@
 *Weighted Gene Correlation Network Analysis of RNAseq data in Loblolly Pine*
 
   * [Abstract](#abstract)
-  * [Questions of interest](#questions-of-interest:)
+  * [Questions of interest](#questions-of-interest)
   * [Background of samples](#background-of-samples)
   * [Location of data](#location-of-data)
   * [Methods](#methods)
@@ -17,7 +17,7 @@
 
 * ***This study utilizes RNA-Seq expression data obtained from 8-week-old loblolly pine seedlings to compare and contrast transcript-networks identified among families which share a common geographic origin or shared phenotypic appearance.**  
 
-### Questions of interest:
+### Questions of interest
 
 * Are any transcript-networks associated with a specific geographic orgin?
 
